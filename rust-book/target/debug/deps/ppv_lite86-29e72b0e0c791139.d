@@ -1,0 +1,8 @@
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/rust-book/target/debug/deps/libppv_lite86-29e72b0e0c791139.rmeta: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/generic.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/rust-book/target/debug/deps/ppv_lite86-29e72b0e0c791139.d: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/generic.rs
+
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/lib.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/soft.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/types.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.21/src/generic.rs:
