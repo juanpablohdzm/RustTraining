@@ -2,6 +2,29 @@ use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
 
+
+struct Rectangle {
+    width: u32,
+    height: u32,
+    name: String,
+}
+
+impl Rectangle {
+    fn max(&self, other: Self) -> Self {
+        let w = self.width.max(other.width);
+        let h = self.height.max(other.height);
+        Rectangle {
+            width: w,
+            height: h,
+            name: String::from("max")
+        }
+    }
+    fn set_to_max(&mut self, other: Rectangle) {
+        *self = self.max(other)
+    }
+}
+
+
 fn main() {
     println!("Guess the number");
     

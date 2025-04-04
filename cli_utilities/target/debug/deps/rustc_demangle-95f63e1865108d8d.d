@@ -1,0 +1,9 @@
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/cli_utilities/target/debug/deps/librustc_demangle-95f63e1865108d8d.rmeta: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/legacy.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/v0.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/cli_utilities/target/debug/deps/librustc_demangle-95f63e1865108d8d.rlib: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/legacy.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/v0.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/cli_utilities/target/debug/deps/rustc_demangle-95f63e1865108d8d.d: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/legacy.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/v0.rs
+
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/lib.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/legacy.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rustc-demangle-0.1.24/src/v0.rs:
