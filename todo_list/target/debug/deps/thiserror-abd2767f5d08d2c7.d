@@ -1,0 +1,8 @@
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/libthiserror-abd2767f5d08d2c7.rmeta: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/thiserror-abd2767f5d08d2c7.d: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs:

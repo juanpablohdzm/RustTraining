@@ -1,0 +1,1 @@
+std::result::Result<rusqlite::MappedRows<'_, {closure@src/database/database.rs:43:60: 43:67}>, rusqlite::Error>

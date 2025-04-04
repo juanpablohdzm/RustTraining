@@ -1,0 +1,8 @@
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/libtracing_error-7e2b988821b38fa4.rmeta: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/backtrace.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/error.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/layer.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/tracing_error-7e2b988821b38fa4.d: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/backtrace.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/error.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/layer.rs
+
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/lib.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/backtrace.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/error.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-error-0.2.1/src/layer.rs:
