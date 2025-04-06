@@ -2,4 +2,4 @@ pub use item::Item;
 pub use database::DataBase;
 
 pub mod item;
-mod database;
+pub mod database;

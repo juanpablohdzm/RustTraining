@@ -1,0 +1,8 @@
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/libcastaway-6bdef6effce69d11.rmeta: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/internal.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lifetime_free.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/utils.rs
+
+/Users/juanpablohernandezmosti/Programming/RustCode/RustTraining/todo_list/target/debug/deps/castaway-6bdef6effce69d11.d: /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lib.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/internal.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lifetime_free.rs /Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/utils.rs
+
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lib.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/internal.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/lifetime_free.rs:
+/Users/juanpablohernandezmosti/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/castaway-0.2.3/src/utils.rs:

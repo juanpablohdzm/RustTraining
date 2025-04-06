@@ -1,7 +1,15 @@
-#[derive(Debug)]
+use std::fmt::Display;
+
+#[derive(Debug, Clone)]
 pub struct Item {
     id: i32,
     name: String
+}
+
+impl Display for Item {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "Item {{ id: {}, name: {} }}", self.id, self.name)
+    }
 }
 
 impl Item {
